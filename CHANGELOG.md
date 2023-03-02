@@ -1,3 +1,7 @@
+## 2.1.0
+
+* Add: Supports works on Desktop.
+
 ## 2.0.0 release
 * TODO: scrollable_positioned_list: ^0.2.3, Indexbar add haptic feedback.
 
@@ -8,7 +12,7 @@
 * TODO: fix analysis.
 
 ## 1.1.0
-* TODO: itemBuilder do not include the header, because it is automatically merged internally. fix [#38](https://github.com/flutterchina/azlistview/issues/38).
+* TODO: itemBuilder do not include the header, because it is automatically merged internally. fix [#38](https://github.com/flutterchina/azlistview_all_platforms/issues/38).
 
 ## 1.0.2
 * TODO: fix bugs and add search classification example.

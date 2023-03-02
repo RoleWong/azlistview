@@ -1,6 +1,6 @@
-Language: [English](https://github.com/flutterchina/azlistview) | 中文简体
+Language: [English](https://github.com/flutterchina/azlistview_all_platforms) | 中文简体
 
-# azlistview
+# azlistview_all_platforms
 
 Flutter 城市列表、联系人列表，索引&悬停。基于[scrollable_positioned_list](https://pub.flutter-io.cn/packages/scrollable_positioned_list).  
 AzListView, SuspensionView, IndexBar.
@@ -19,7 +19,7 @@ AzListView, SuspensionView, IndexBar.
 ## Pub
 ```yaml
 dependencies:
-  azlistview: #latest version
+  azlistview_all_platforms: #latest version
 ```
 
 ## Screenshots
@@ -31,9 +31,9 @@ dependencies:
 
 ## Changelog
 
-Please see the [Changelog](https://github.com/flutterchina/azlistview/blob/master/CHANGELOG.md) page to know what's recently changed.  
+Please see the [Changelog](https://github.com/flutterchina/azlistview_all_platforms/blob/master/CHANGELOG.md) page to know what's recently changed.  
 v1.1.0  
-itemBuilder不要包含Header，因为它是在内部自动合并的。fix [#38](https://github.com/flutterchina/azlistview/issues/38).
+itemBuilder不要包含Header，因为它是在内部自动合并的。fix [#38](https://github.com/flutterchina/azlistview_all_platforms/issues/38).
 
 ## App
 [Moss App](https://github.com/Sky24n/Moss)

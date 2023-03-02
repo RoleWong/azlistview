@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:azlistview/azlistview.dart';
+import 'package:azlistview_all_platforms/azlistview_all_platforms.dart';
 import 'package:azlistview_example/common/index.dart';
 
 import 'package:github_language_colors/github_language_colors.dart';
