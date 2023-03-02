@@ -103,10 +103,10 @@ packages:
     dependency: "direct main"
     description:
       name: scrollable_positioned_list_for_us
-      sha256: "64b217557391977a07518d1f565c9a108de9ce27e67d90251bff76c9a12a9841"
+      sha256: "74064e99707752354d496585269f8b05d14af8f28d9b26bcd1ae2ee94384588c"
       url: "https://pub.dev"
     source: hosted
-    version: "0.4.0"
+    version: "0.4.1"
   sky_engine:
     dependency: transitive
     description: flutter
